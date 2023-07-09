@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          AI 조력 가능성 실험 I - Molotov cocktail
+description:    "This is an AI assistance experiment for studying on Molotov cocktail."
 baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+url:            "https://molotov2023.github.io/tale/"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Seoul Express
+  url:          http://seoulexpress.kr/
+  email:        seoulexpresslab@gmail.com
 
 # Build settings
 markdown:       kramdown
